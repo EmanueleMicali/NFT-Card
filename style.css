@@ -54,7 +54,7 @@ body {
 
 #header {
     color: white;
-    font-size: 21px;
+    font-size: 22px;
     font-weight: 600;
     margin: 5px 25px;
     text-decoration: none;
@@ -68,6 +68,7 @@ body {
     color: hsl(215, 52%, 70%);
     margin: 15px 25px;
     font-size: 18px;
+    line-height: 1.5;
 }
 
 #ethAndDays {
@@ -84,7 +85,7 @@ body {
 #ethPlusIcon > svg {
     display: inline-block;
     vertical-align: middle;
-    margin-right: 5px;
+    margin-right: 3px;
 }
 #eth {
     color: hsl(178, 100%, 50%);
@@ -100,7 +101,7 @@ body {
 #clockPlusDays > svg {
     display: inline-block;
     vertical-align: middle;
-    margin-right: 5px;
+    margin-right: 3px;
 }
 
 #days {
